@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+#ChromeDriver executable
+resources/chromedriver.exe
